@@ -1,0 +1,14 @@
+{
+    "name": "joostina",
+    "description": "joostina cmf",
+    "authors": [
+        {
+            "name": "Joostina Team",
+            "email": "team@joostina.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+}
